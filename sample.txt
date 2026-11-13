@@ -2,3 +2,4 @@
 "New feature is added " 
 adding new featue from feature2
 added a code from master1
+hi from feature2!!
